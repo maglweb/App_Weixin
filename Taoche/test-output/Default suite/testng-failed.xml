@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="cn.taoche.Test.CopyOfApp_init">
+      <class name="cn.taoche.Test.App_init">
         <methods>
-          <include name="beforeMethod"/>
           <include name="afterMethod"/>
+          <include name="beforeMethod"/>
           <include name="Test_Startup"/>
         </methods>
-      </class> <!-- cn.taoche.Test.CopyOfApp_init -->
+      </class> <!-- cn.taoche.Test.App_init -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
